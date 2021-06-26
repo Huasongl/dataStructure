@@ -1,1 +1,4 @@
 # dataStructure
+  
+# sort
+  - primarySort 
