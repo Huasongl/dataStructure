@@ -7,6 +7,10 @@ import java.util.List;
 
 public class SortTestEntrance {
   public static void main(String[] args){
+      int a=2147483647;
+      short b=32767;
+      System.out.println(a);
+      System.out.println(b);
         Integer[] list={1,-1,4,-5};
         Integer[] list1=list.clone();
         System.out.println("bubbleSortTest");
