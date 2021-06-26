@@ -13,3 +13,6 @@
 - extra knowledge
   - Arrays.asList()生成的是一个列表，这个list是一个迭代器
   - int[] list生成一个数组，list是一个数组基地址的引用。
+  
+- short_max 32767
+- int_max 2147483647

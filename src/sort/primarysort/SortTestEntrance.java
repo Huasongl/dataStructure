@@ -1,10 +1,4 @@
 package sort.primarysort;
-
-import java.awt.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class SortTestEntrance {
   public static void main(String[] args){
       int a=2147483647;
