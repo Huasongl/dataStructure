@@ -1,4 +1,4 @@
 # dataStructure
 
 # sort
-  - primarySort 
+- [primarySort](src/sort/primarysort/reademe.md) 
