@@ -33,6 +33,5 @@ public class SortTestEntrance {
           System.out.print(list[i]+" ");
       }
       System.out.println("\n");
-
     }
 }
