@@ -5,3 +5,6 @@ learning dataStructure.
 
 - generic
   - [generic](src/genericity)
+
+- kernelTechnique
+  - [kernelTechnique](src/javakerneltechnique)
