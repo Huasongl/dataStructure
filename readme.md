@@ -8,3 +8,7 @@ learning dataStructure.
 
 - kernelTechnique
   - [kernelTechnique](src/javakerneltechnique)
+
+- math thought practice
+  - [dynamic programming](src/maththought)
+
